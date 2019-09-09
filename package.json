@@ -1,0 +1,22 @@
+{
+  "name": "demo",
+  "version": "1.0.0",
+  "description": "Demo",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "ajv": "^6.10.0",
+    "axios": "^0.18.0",
+    "commonlog-kb": "^1.5.1",
+    "egoroof-blowfish": "^2.1.0",
+    "express": "^4.16.4",
+    "express-load": "^1.1.16",
+    "moment": "^2.24.0",
+    "mongoose": "^5.4.19"
+  }
+}
